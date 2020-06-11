@@ -1,0 +1,2 @@
+# Aargon Solver
+A fun little project to solve levels in an old puzzle game called "Aargon Deluxe". The solver uses a brute-force iterative method of placing pieces on a map and seeing how many coins are lit up.
